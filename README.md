@@ -5,3 +5,6 @@ this is a clone of the game called Hexa sort this was a hobby project i made fro
 
 heres a image of developmemt : 
 ![Screenshot 2024-07-02 025347](https://github.com/amm4rdev/HexaSort/assets/146736240/aab02af4-9007-4687-8188-edac37ddb526)
+
+
+enjoy the game ty for checking the repo out 
